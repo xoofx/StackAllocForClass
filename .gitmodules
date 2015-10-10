@@ -1,0 +1,6 @@
+[submodule "coreclr"]
+	path = coreclr
+	url = git@github.com:xoofx/coreclr.git
+[submodule "roslyn"]
+	path = roslyn
+	url = git@github.com:xoofx/roslyn.git
